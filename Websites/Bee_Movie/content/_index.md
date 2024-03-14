@@ -17,6 +17,7 @@ sections:
       gradient_start: '#264038'
       text_color_light: yes
     css_class: 'big_headline'
+
 - block: markdown
   content:
     text: |-
@@ -47,6 +48,8 @@ sections:
     css_class: 'brief'
     spacing:
       padding: ["20px","0","5px","0"]
+
+
 - block: portfolio
   content:
     filters:
@@ -67,6 +70,9 @@ sections:
     background:
       color: '#1b2724'
       text_color_light: yes
+
+
+
 - block: markdown
   design:
     background:
