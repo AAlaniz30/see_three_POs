@@ -7,7 +7,11 @@
 
 {{/* Get site logo. */}}
 {{ $show_logo := site.Params.header.navbar.show_logo | default true }}
+<<<<<<< HEAD
 {{ $has_logo := fileExists "assets/media/bee_icon.png" | or (fileExists "assets/media/bee_icon.png") }}
+=======
+{{ $has_logo := fileExists "assets/media/bee_icon.png" | or (fileExists "assets/media/logo.svg") }}
+>>>>>>> e4035f9be6c6bd83d5a3280c29cd761f768694b3
 {{ $logo := "" }}
 {{ if $has_logo }}
   {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 70)) }}
