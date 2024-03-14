@@ -5,7 +5,7 @@
 
 main:
   - name: Contact Us
-    url: https://myspace.com/
+    url: https://facebook.com/
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
