@@ -4,7 +4,7 @@ social:
     header: true
   icon: google
   icon_pack: fab
-  label: Follow us on Linkedin
+  label: Follow us on Google
   link: https://www.google.com/
 superuser: true
 ---
