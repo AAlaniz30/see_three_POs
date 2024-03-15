@@ -10,7 +10,7 @@
 {{ $has_logo := fileExists "assets/media/icon.png" | or (fileExists "assets/media/icon.svg") }}
 {{ $logo := "" }}
 {{ if $has_logo }}
-  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 150)) }}
+  {{ $logo = (partial "functions/get_logo" (dict "constraint" "max_height" "size" 500)) }}
 {{ end }}
 
 <header>
