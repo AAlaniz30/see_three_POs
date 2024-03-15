@@ -25,7 +25,7 @@ sections:
         
       ### {{< icon name="spider" pack="fas" >}} **there is no way a bee should be able to fly**
         
-      ### {{< icon name="forumbee" pack="fas" >}} ***Its wings are too small to get its fat little body off the ground***
+      ### {{< icon name="forumbee" pack="fab" >}} ***Its wings are too small to get its fat little body off the ground***
       
       <br />
     
