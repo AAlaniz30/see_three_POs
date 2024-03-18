@@ -26,7 +26,6 @@ sections:
       ### {{< icon name="spider" pack="fas" >}} **there is no way a bee should be able to fly**
         
       ### {{< icon name="forumbee" pack="fab" >}} ***Its wings are too small to get its fat little body off the ground***
-  
   design:
     background:
       image:
@@ -40,15 +39,13 @@ sections:
   content:
     text: |-
       
-      <iframe height="500px" width="100%" src="https://usgrains.corn-simulator.ecodata.pro/" frameborder="0"></iframe>
-
-  
+      <iframe height="500px" width="50%" src="https://usgrains.corn-simulator.ecodata.pro/" frameborder="0"></iframe>
   design:
     background:
       image:
         color: '#1b2724'
         text_color_light: yes
-    css_class: 'brief flex-row-reverse'
+    css_class: 'brief flex-column-reverse'
     spacing:
       padding: ["20px","0","5px","0"]
 
