@@ -10,7 +10,7 @@ summary: |-
 
   Those were awkward.Three days college. I'm glad I took a day and hitchhiked around the hive. You did come back different. Hi, Barry! Artie, growing a mustache? Looks good. Hear about Frankie? You going to the funeral? No, I'm not going to his funeral. Everybody knows, sting someone, you die.
 
-Don't waste it on a squirrel. Such a hothead.
+  Don't waste it on a squirrel. Such a hothead.
 tags:
 - Intro
 share: false
