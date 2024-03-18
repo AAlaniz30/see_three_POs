@@ -20,10 +20,44 @@ sections:
 - block: markdown
   content:
     text: |-
+      
+      ### {{< icon name="bug" pack="fas" >}} *According to all known laws of aviation*
+        
+      ### {{< icon name="spider" pack="fas" >}} **there is no way a bee should be able to fly**
+        
+      ### {{< icon name="forumbee" pack="fab" >}} ***Its wings are too small to get its fat little body off the ground***
   
-    <div style="display: flex; flex-direction: row;">
-      <div style="flex: 1;">
+  design:
+    background:
+      image:
+        color: '#1b2724'
+        text_color_light: yes
+    css_class: 'brief flex-column'
+    spacing:
+      padding: ["20px","0","5px","0"]
+
+- block: markdown
+  content:
+    text: |-
+      
+      <iframe height="500px" width="100%" src="https://usgrains.corn-simulator.ecodata.pro/" frameborder="0"></iframe>
+
   
+  design:
+    background:
+      image:
+        color: '#1b2724'
+        text_color_light: yes
+    css_class: 'brief flex-row-reverse'
+    spacing:
+      padding: ["20px","0","5px","0"]
+
+
+
+- block: markdown
+  content:
+    text: |-
+
       ### {{< icon name="bug" pack="fas" >}} *According to all known laws of aviation*
         
       ### {{< icon name="spider" pack="fas" >}} **there is no way a bee should be able to fly**
@@ -41,13 +75,9 @@ sections:
       #### *Barry! Breakfast is ready!*
       
       Coming! Hang on a second. Hello? Barry? Adam? Can you believe this is happening? I can't. I'll pick you up. Looking *sharp*. Use the stairs. Your father paid good money for those. Sorry. I'm excited.  Here's the graduate. *We're very proud of you, son*. A perfect report card, ***all B's***.
-      </div>
-    <div style="flex: 1;">
-      
+
         <iframe height="500px" width="100%" src="https://usgrains.corn-simulator.ecodata.pro/" frameborder="0"></iframe>
-      </div>
-    </div>
-      
+
   design:
     background:
       image:
