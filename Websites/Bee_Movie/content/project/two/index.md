@@ -1,16 +1,16 @@
 ---
-title: Leveraging industry standards
+title: Very proud.
 weight: 2
-image:
-  preview_only: true
 links:
 summary: |-
   
-  Pest-forecasting tools 'in the cloud' needs deep technical expertise. The payoff is easy access for stakeholders to state-of-the-art, demanding models built on up-to-date data. We take inspiration from the tech industry's approach to MLOps.
-  
-  Our data and scripts are stored on an Amazon Web Service EC2 instance, which scales on-the-fly to meet computing needs. The Ubuntu virtual machine also hosts the Shiny server used to share the results on the web, and Nginx and Certbot for accessibility and security.
-  
-  From there we can embed our apps in convenient web reports like this one, built with Hugo, maintained on GitHub, and deployed on Netlify.
+  Ma! I got a thing going here. You got lint on your fuzz. Ow! That's me! Wave to us! We'll be in row 118,000. Bye! Barry, I told you, stop flying in the house! Hey, Adam. Hey, Barry. Is that fuzz gel? A little. Special day, graduation. Never thought I'd make it. Three days grade school, three days high school...
+
+  Those were awkward.Three days college. I'm glad I took a day and hitchhiked around the hive. You did come back different. Hi, Barry! Artie, growing a mustache? Looks good. Hear about Frankie? You going to the funeral? No, I'm not going to his funeral. Everybody knows, sting someone, you die.
+
+  Don't waste it on a squirrel. Such a hothead.
+image:
+  preview_only: true
 tags:
 - Problem
 share: false
