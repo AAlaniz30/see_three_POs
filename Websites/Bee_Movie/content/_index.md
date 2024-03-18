@@ -56,9 +56,9 @@ sections:
     filters:
       folders: project
       tags:
-      - Solution
       - Intro
       - Problem
+      - Solution
     title: ''
     sort_by: Weight
     sort_ascending: yes
