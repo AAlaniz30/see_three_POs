@@ -66,7 +66,7 @@ sections:
     spacing:
       padding: ["40px","0","40px","0"]
     columns: '1'
-    flip_alt_rows: yes
+    flip_alt_rows: no
     view: community/showcase_rounded
     background:
       color: '#1b2724'
