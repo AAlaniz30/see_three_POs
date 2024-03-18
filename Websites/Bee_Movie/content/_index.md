@@ -43,7 +43,7 @@ sections:
       image:
         color: '#1b2724'
         text_color_light: yes
-    columns: 2
+    columns: '2'
     css_class: 'brief'
     spacing:
       padding: ["20px","0","5px","0"]
