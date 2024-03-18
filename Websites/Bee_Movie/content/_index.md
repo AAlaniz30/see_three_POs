@@ -44,9 +44,6 @@ sections:
         color: '#1b2724'
         text_color_light: yes
     columns: '2'
-    css_class: 'flex-column'
-    spacing:
-      padding: ["20px","0","5px","0"]
 
 - block: markdown
   content:
