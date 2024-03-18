@@ -66,11 +66,26 @@ sections:
     spacing:
       padding: ["40px","0","40px","0"]
     columns: '1'
-    flip_alt_rows: no
+    flip_alt_rows: yes
     view: community/showcase_rounded
     background:
       color: '#1b2724'
       text_color_light: yes
+
+- block: markdown
+  content:
+    text: |-
+    
+        <iframe height="500px" width="100%" src="https://ecodata.pro/phenogamTest/" frameborder="0"></iframe>
+      
+  design:
+    background:
+      image:
+        color: '#1b2724'
+        text_color_light: yes
+    css_class: 'brief'
+    spacing:
+      padding: ["20px","0","5px","0"]
 
 
 
