@@ -4,14 +4,14 @@ name = "ecodata" # Based on https://www.ecodata.tech/
 [dark]
   # Primary
   primary = "#6eb39c"
-  background = "#1b2724" #footercolor
+  background = "#3d7dca" #footer color
 
   text = "#6eb39c"
   link = "#6eb39c"
   link_hover = "#ffffff"
 
   # Menu
-  menu_primary = "#f6cf3f"
+  menu_primary = "#3d7dca" #header color
   menu_text = "#ffffff"
   menu_text_active = "#6eb39c"
   menu_title = "#ffffff"
