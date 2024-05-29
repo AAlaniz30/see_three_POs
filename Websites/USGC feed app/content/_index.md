@@ -19,11 +19,11 @@ sections:
   content:
     text: |-
     
-      ### {{< icon name="corn" pack="fad" >}} **Biological system:** Spongy moth, spotted lanternfly
+      ### {{< icon name="corn" pack="fas" >}} **Biological system:** Spongy moth, spotted lanternfly
         
-      ### {{< icon name="calculator" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
+      ### {{< icon name="turkey" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
         
-      ### {{< icon name="terminal" pack="fas" >}} **Production stack:** R, Shiny, AWS, Shiny Server, Nginx
+      ### {{< icon name="wheat-awn" pack="fas" >}} **Production stack:** R, Shiny, AWS, Shiny Server, Nginx
       
       <br />
     
