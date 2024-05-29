@@ -4,7 +4,7 @@ name = "ecodata" # Based on https://www.ecodata.tech/
 [dark]
   # Primary
   primary = "#6eb39c"
-  background = "#1b2724"
+  background = "#f6cf3f"
 
   text = "#6eb39c"
   link = "#6eb39c"
