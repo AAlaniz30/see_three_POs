@@ -11,7 +11,7 @@ name = "ecodata" # Based on https://www.ecodata.tech/
   link_hover = "#ffffff"
 
   # Menu
-  menu_primary = "#3d7dca" #header color
+  menu_primary = "#003e7e" #header color
   menu_text = "#ffffff"
   menu_text_active = "#6eb39c"
   menu_title = "#ffffff"
