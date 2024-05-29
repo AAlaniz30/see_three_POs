@@ -11,17 +11,18 @@ sections:
     spacing:
       padding: ["40px","0","20px","0"]
     background:
-      gradient_end: '#1b2724'
-      gradient_start: '#264038'
+#      gradient_end: '#1b2724'
+#      gradient_start: '#003e6a'
+      color: '#003e6a'
       text_color_light: yes
     css_class: 'big_headline'
 - block: markdown
   content:
     text: |-
     
-      ### {{< icon name="corn" pack="fas" >}} **Biological system:** Spongy moth, spotted lanternfly
+      ### {{< icon name="sack-dollar" pack="fas" >}} **Biological system:** Spongy moth, spotted lanternfly
         
-      ### {{< icon name="turkey" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
+      ### {{< icon name="drumstick-bite" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
         
       ### {{< icon name="wheat-awn" pack="fas" >}} **Production stack:** R, Shiny, AWS, Shiny Server, Nginx
       
