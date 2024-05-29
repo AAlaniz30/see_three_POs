@@ -11,8 +11,6 @@ sections:
     spacing:
       padding: ["40px","0","20px","0"]
     background:
-#      gradient_end: '#1b2724'
-#      gradient_start: '#003e6a'
       color: '#003e6a'
       text_color_light: yes
     css_class: 'big_headline'
@@ -41,7 +39,7 @@ sections:
   design:
     background:
       image:
-        color: '#1b2724'
+        color: '#f6cf3f'
         text_color_light: yes
     css_class: 'brief'
     spacing:

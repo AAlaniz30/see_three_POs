@@ -5,7 +5,7 @@
 
 main:
   - name: Contact Us
-    url: https://www.ecodata.tech/projects#contact
+    url: https://grains.org/u-s-worldwide-offices/
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
