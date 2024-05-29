@@ -19,7 +19,7 @@ sections:
   content:
     text: |-
     
-      ### {{< icon name="bug" corn="fad" >}} **Biological system:** Spongy moth, spotted lanternfly
+      ### {{< icon name="corn" pack="fad" >}} **Biological system:** Spongy moth, spotted lanternfly
         
       ### {{< icon name="calculator" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
         
