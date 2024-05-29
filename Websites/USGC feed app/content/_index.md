@@ -11,7 +11,7 @@ sections:
     spacing:
       padding: ["40px","0","20px","0"]
     background:
-      color: '#003e6a'
+      color: '#002f60'
       text_color_light: yes
     css_class: 'big_headline'
 - block: markdown
