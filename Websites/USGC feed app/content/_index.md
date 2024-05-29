@@ -39,7 +39,7 @@ sections:
   design:
     background:
       image:
-        color: '#f6cf3f'
+        color: '#1b2724'
         text_color_light: yes
     css_class: 'brief'
     spacing:
@@ -62,7 +62,7 @@ sections:
     flip_alt_rows: yes
     view: community/showcase_rounded
     background:
-      color: '#1b2724'
+      color: '#f6cf3f'
       text_color_light: yes
 - block: markdown
   design:
