@@ -1,13 +1,11 @@
 ---
-title: "Shiny AWS"
+title: "USGC Feed Calculator"
 sections:
 - block: hero
   content:
     title: |-
     
-      Decision support tools
-    
-      in the cloud
+      Feed Purchase and Feed Production Savings Calculator
       
   design:
     spacing:
@@ -21,7 +19,7 @@ sections:
   content:
     text: |-
     
-      ### {{< icon name="bug" pack="fas" >}} **Biological system:** Spongy moth, spotted lanternfly
+      ### {{< icon name="bug" corn="fad" >}} **Biological system:** Spongy moth, spotted lanternfly
         
       ### {{< icon name="calculator" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
         
