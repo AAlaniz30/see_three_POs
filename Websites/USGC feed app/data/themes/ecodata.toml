@@ -3,7 +3,7 @@ name = "ecodata" # Based on https://www.ecodata.tech/
 
 [dark]
   # Primary
-  primary = "#6eb39c"
+  primary = "#002f60"
   background = "#003e7e" #footer color
 
   text = "#6eb39c"
