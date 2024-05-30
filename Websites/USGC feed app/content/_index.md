@@ -68,10 +68,10 @@ sections:
   design:
     background:
       image:
-        filename: original.jpg
+        filename: bg.jpeg
         size: cover
         position: center
-        parallax: yes
+        #parallax: yes
         text_color_light: yes
 date: "2022-10-24"
 type: landing
