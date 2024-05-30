@@ -17,5 +17,5 @@ name = "ecodata" # Based on https://www.ecodata.tech/
   menu_title = "#ffffff"
 
   # Home sections
-  home_section_odd = "#1b2724"
-  home_section_even = "#1b2724"
+  home_section_odd = "#002f60"
+  home_section_even = "#002f60"
