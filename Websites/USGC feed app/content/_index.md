@@ -68,7 +68,7 @@ sections:
   design:
     background:
       image:
-        filename: bg.jpeg
+        filename: original.jpg
         size: cover
         position: center
         parallax: yes
