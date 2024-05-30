@@ -18,11 +18,11 @@ sections:
   content:
     text: |-
     
-      ### {{< icon name="sack-dollar" pack="fas" >}} **Biological system:** Spongy moth, spotted lanternfly
+      ### {{< icon name="sack-dollar" pack="fas" >}} <span style="color:#cb7717">**Biological system:**</span> Spongy moth, spotted lanternfly
         
-      ### {{< icon name="drumstick-bite" pack="fas" >}} **Data analysis:** General additive models, iNaturalist dataset
+      ### {{< icon name="drumstick-bite" pack="fas" >}} <span style="color:#cb7717">**Data analysis:**</span> General additive models, iNaturalist dataset
         
-      ### {{< icon name="wheat-awn" pack="fas" >}} **Production stack:** R, Shiny, AWS, Shiny Server, Nginx
+      ### {{< icon name="wheat-awn" pack="fas" >}} <span style="color:#cb7717">**Production stack:**</span> R, Shiny, AWS, Shiny Server, Nginx
       
       <br />
     
