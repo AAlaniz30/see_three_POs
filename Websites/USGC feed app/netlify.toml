@@ -1,6 +1,5 @@
 [build]
 command = 'hugo'
-publish = 'public'
 ignore = 'exit 1'
 
 [build.environment]
@@ -16,6 +15,3 @@ command = 'hugo -F -b $DEPLOY_PRIME_URL'
 [context.production]
 [context.production.environment]
 HUGO_ENV = 'production'
-
-[build.processing]
-skip_processing = true
