@@ -1,5 +1,6 @@
 [build]
 command = 'hugo'
+publish = 'public'
 ignore = 'exit 1'
 
 [build.environment]
